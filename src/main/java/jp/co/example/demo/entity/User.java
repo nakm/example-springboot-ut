@@ -1,4 +1,4 @@
-package jp.co.example.nakm.entity;
+package jp.co.example.demo.entity;
 
 import lombok.Builder;
 import lombok.Getter;

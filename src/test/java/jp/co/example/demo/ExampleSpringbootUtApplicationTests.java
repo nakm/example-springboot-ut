@@ -1,4 +1,4 @@
-package jp.co.example.nakm;
+package jp.co.example.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

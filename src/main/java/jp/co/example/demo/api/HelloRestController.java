@@ -1,4 +1,4 @@
-package jp.co.example.nakm.api;
+package jp.co.example.demo.api;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import jp.co.example.nakm.entity.User;
+import jp.co.example.demo.entity.User;
 
 @RestController
 public class HelloRestController {
